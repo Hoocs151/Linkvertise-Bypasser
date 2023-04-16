@@ -29,3 +29,8 @@ Khi được yêu cầu, hãy nhập liên kết Linkvertise mà bạn muốn b�
 Nếu có bất kỳ lỗi nào xảy ra trong quá trình bỏ qua liên kết, ứng dụng sẽ thông báo cho bạn biết và không sao chép liên kết đích nào.
 
 Bạn có thể tiếp tục bỏ qua các liên kết mới bằng cách nhấn Enter hoặc chọn Q để thoát khỏi ứng dụng.
+
+## Hạn chế
+
+Ứng dụng này chỉ hoạt động với các liên kết Linkvertise và không thể bỏ qua các loại liên kết khác. Ngoài ra, nếu trang web Linkvertise có bất kỳ cập nhật nào, ứng dụng có thể không hoạt động đúng cách.
+
