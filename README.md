@@ -1,6 +1,6 @@
 # Linkvertise Bypasser
 
-Linkvertise Bypasser là một ứng dụng nhỏ cho phép bạn tự động bỏ qua các liên kết Linkvertise và truy cập trực tiếp đến nội dung bạn muốn xem. 
+Linkvertise Bypasser là một ứng dụng nhỏ giúp bạn tự động bỏ qua các liên kết Linkvertise và truy cập trực tiếp đến nội dung bạn muốn xem. Tôi đã sử dụng API của trang web toksaver.com để bỏ qua các liên kết này. 
 
 ## Cài đặt
 
